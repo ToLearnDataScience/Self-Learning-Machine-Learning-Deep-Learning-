@@ -8,7 +8,7 @@ Created on Fri Aug  6 18:31:12 2021
 """
 Chapter02 : Data Preprocessing
 - train & test split
-- standardization
+- scaling
 """
 
 # Data
